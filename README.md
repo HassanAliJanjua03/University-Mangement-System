@@ -14,11 +14,15 @@ An academic C++ console application exploring university-related workflows and s
 
 | File | Purpose |
 | --- | --- |
-| [University Management System.cpp](University%20Management%20System.cpp) | Original source or design file |
+| [University Management System.cpp](University%20Management%20System.cpp) | Original C++ source |
 
 ## How to explore or reproduce
 
 Open `University Management System.cpp` in a compatible C++ IDE. Review platform dependencies and use synthetic student data for testing. The grade lookup routines reference CSV files that are not included.
+
+## Suggested test cases
+
+Use fictional data to test grade entry and lookup for each section, malformed CSV input, missing files and invalid menu choices. These cases have not yet been executed.
 
 ## Scope and limitations
 
