@@ -1,0 +1,11 @@
+# Local compiled programs and temporary files
+/university
+/university.exe
+*.o
+*.obj
+*.exe
+# Generated or local student records (do not publish personal data)
+*.csv
+# IDE files
+.vscode/
+.idea/
