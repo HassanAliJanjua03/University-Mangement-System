@@ -228,7 +228,7 @@ The graphics are illustrations based on the source, not screenshots of a verifie
 
 **Second-semester group project · Air University**
 
-Hassan Ali Janjua · M Shehroz Khan · Ali Torab
+Hassan Ali Janjua 
 
 [My engineering portfolio](https://github.com/HassanAliJanjua03)
 
